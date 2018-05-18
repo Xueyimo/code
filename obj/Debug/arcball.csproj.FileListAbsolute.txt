@@ -1,0 +1,125 @@
+E:\微制造\3D printer soft\CsGL\arcball\bin\Debug\arcball.exe
+E:\微制造\3D printer soft\CsGL\arcball\bin\Debug\arcball.pdb
+E:\微制造\3D printer soft\CsGL\arcball\bin\Debug\csgl.dll
+E:\微制造\3D printer soft\CsGL\arcball\obj\Debug\ResolveAssemblyReference.cache
+E:\微制造\3D printer soft\CsGL\arcball\obj\Debug\arcball.Form1.resources
+E:\微制造\3D printer soft\CsGL\arcball\obj\Debug\arcball.Properties.Resources.resources
+E:\微制造\3D printer soft\CsGL\arcball\obj\Debug\arcball.csproj.GenerateResource.Cache
+E:\微制造\3D printer soft\CsGL\arcball\obj\Debug\arcball.exe
+E:\微制造\3D printer soft\CsGL\arcball\obj\Debug\arcball.pdb
+E:\微制造\3D printer soft\CsGL\example\arcball example\code\obj\Debug\arcball.exe
+E:\微制造\3D printer soft\CsGL\example\arcball example\code\obj\Debug\arcball.pdb
+E:\微制造\3D printer soft\CsGL\example\arcball example\code\bin\Debug\arcball.exe
+E:\微制造\3D printer soft\CsGL\example\arcball example\code\bin\Debug\arcball.pdb
+E:\微制造\3D printer soft\CsGL\example\arcball example\code\bin\Debug\csgl.dll
+E:\微制造\3D printer soft\CsGL\example\arcball example\code\obj\Debug\ResolveAssemblyReference.cache
+E:\微制造\3D printer soft\CsGL\example\arcball example\code\obj\Debug\arcball.Form1.resources
+E:\微制造\3D printer soft\CsGL\example\arcball example\code\obj\Debug\arcball.Properties.Resources.resources
+E:\微制造\3D printer soft\CsGL\example\arcball example\code\obj\Debug\arcball.csproj.GenerateResource.Cache
+D:\myfile\WIN64\OpenGL\arcball example\code\obj\Debug\arcball.exe
+D:\myfile\WIN64\OpenGL\arcball example\code\obj\Debug\arcball.pdb
+E:\日常文件\石油工程\试井\FEB网格生成算法\PEBI_C#\code\obj\Debug\arcball.exe
+E:\日常文件\石油工程\试井\FEB网格生成算法\PEBI_C#\code\obj\Debug\arcball.pdb
+E:\日常文件\石油工程\试井\FEB网格生成算法\PEBI_C#\code\bin\Debug\arcball.exe
+E:\日常文件\石油工程\试井\FEB网格生成算法\PEBI_C#\code\bin\Debug\arcball.pdb
+E:\日常文件\石油工程\试井\FEB网格生成算法\PEBI_C#\code\bin\Debug\csgl.dll
+E:\日常文件\石油工程\试井\FEB网格生成算法\PEBI_C#\code\obj\Debug\arcball.csprojResolveAssemblyReference.cache
+E:\日常文件\石油工程\试井\FEB网格生成算法\PEBI_C#\code\obj\Debug\arcball.Form1.resources
+E:\日常文件\石油工程\试井\FEB网格生成算法\PEBI_C#\code\obj\Debug\arcball.Properties.Resources.resources
+E:\日常文件\石油工程\试井\FEB网格生成算法\PEBI_C#\code\obj\Debug\arcball.csproj.GenerateResource.Cache
+E:\日常文件\石油工程\试井\FEB网格生成算法\PEBI_C# - m1\code\obj\Debug\arcball.exe
+E:\日常文件\石油工程\试井\FEB网格生成算法\PEBI_C# - m1\code\obj\Debug\arcball.pdb
+E:\日常文件\石油工程\试井\FEB网格生成算法\PEBI_C# _3d_m1\code\obj\Debug\arcball.exe
+E:\日常文件\石油工程\试井\FEB网格生成算法\PEBI_C# _3d_m1\code\obj\Debug\arcball.pdb
+E:\important document\pertroleum engineering\试井\FEB网格生成算法\PEBI_C# _3d_m1\code\obj\Debug\arcball.exe
+E:\important document\pertroleum engineering\试井\FEB网格生成算法\PEBI_C# _3d_m1\code\obj\Debug\arcball.pdb
+E:\important document\pertroleum engineering\试井\FEB网格生成算法\PEBI_C# _3d_m1\code\bin\Debug\arcball.exe
+E:\important document\pertroleum engineering\试井\FEB网格生成算法\PEBI_C# _3d_m1\code\bin\Debug\arcball.pdb
+E:\important document\pertroleum engineering\试井\FEB网格生成算法\PEBI_C# _3d_m1\code\bin\Debug\csgl.dll
+E:\important document\pertroleum engineering\试井\FEB网格生成算法\PEBI_C# _3d_m1\code\obj\Debug\arcball.csprojResolveAssemblyReference.cache
+E:\important document\pertroleum engineering\试井\FEB网格生成算法\PEBI_C# _3d_m1\code\obj\Debug\arcball.Form1.resources
+E:\important document\pertroleum engineering\试井\FEB网格生成算法\PEBI_C# _3d_m1\code\obj\Debug\arcball.Properties.Resources.resources
+E:\important document\pertroleum engineering\试井\FEB网格生成算法\PEBI_C# _3d_m1\code\obj\Debug\arcball.csproj.GenerateResource.Cache
+E:\important document\pertroleum engineering\试井\FEB网格生成算法\PEBI_C# _3d_m1 _fm1\code\obj\Debug\arcball.exe
+E:\important document\pertroleum engineering\试井\FEB网格生成算法\PEBI_C# _3d_m1 _fm1\code\obj\Debug\arcball.pdb
+E:\important document\pertroleum engineering\试井\FEB网格生成算法\PEBI_C# _3d_m1 _fm1\code\bin\Debug\arcball.exe
+E:\important document\pertroleum engineering\试井\FEB网格生成算法\PEBI_C# _3d_m1 _fm1\code\bin\Debug\arcball.pdb
+E:\important document\pertroleum engineering\试井\FEB网格生成算法\PEBI_C# _3d_m1 _fm1\code\bin\Debug\csgl.dll
+E:\important document\pertroleum engineering\试井\FEB网格生成算法\PEBI_C# _3d_m1 _fm1\code\obj\Debug\arcball.csprojResolveAssemblyReference.cache
+E:\important document\pertroleum engineering\试井\FEB网格生成算法\PEBI_C# _3d_m1 _fm1\code\obj\Debug\arcball.Form1.resources
+E:\important document\pertroleum engineering\试井\FEB网格生成算法\PEBI_C# _3d_m1 _fm1\code\obj\Debug\arcball.Properties.Resources.resources
+E:\important document\pertroleum engineering\试井\FEB网格生成算法\PEBI_C# _3d_m1 _fm1\code\obj\Debug\arcball.csproj.GenerateResource.Cache
+E:\important document\pertroleum engineering\试井\FEB网格生成算法\PEBI_C# _3d_m1 _fm1\code\obj\Debug\arcball.csgl.resources
+E:\important document\pertroleum engineering\试井\FEB网格生成算法\PEBI_C# _3d_m1 _fm1 - 副本\code\obj\Debug\arcball.exe
+E:\important document\pertroleum engineering\试井\FEB网格生成算法\PEBI_C# _3d_m1 _fm1 - 副本\code\obj\Debug\arcball.pdb
+E:\important document\pertroleum engineering\试井\FEB网格生成算法\PEBI_C# _3d_m1 _fm1 - 副本\code\obj\Debug\arcball.csprojResolveAssemblyReference.cache
+E:\important document\pertroleum engineering\试井\FEB网格生成算法\PEBI_C# _3d_m1 _fm1 - 副本\code\obj\Debug\arcball.csgl.resources
+E:\important document\pertroleum engineering\试井\FEB网格生成算法\PEBI_C# _3d_m1 _fm1 - 副本\code\obj\Debug\arcball.Form1.resources
+E:\important document\pertroleum engineering\试井\FEB网格生成算法\PEBI_C# _3d_m1 _fm1 - 副本\code\obj\Debug\arcball.Properties.Resources.resources
+E:\important document\pertroleum engineering\试井\FEB网格生成算法\PEBI_C# _3d_m1 _fm1 - 副本\code\obj\Debug\arcball.csproj.GenerateResource.Cache
+E:\important document\pertroleum engineering\试井\FEB网格生成算法\PEBI_C# _3d_m1 _fm1 - 副本\code\bin\Debug\arcball.exe
+E:\important document\pertroleum engineering\试井\FEB网格生成算法\PEBI_C# _3d_m1 _fm1 - 副本\code\bin\Debug\arcball.pdb
+E:\important document\pertroleum engineering\试井\FEB网格生成算法\PEBI_C# _3d_m1 _fm1 - 副本\code\bin\Debug\csgl.dll
+E:\important document\pertroleum engineering\试井\FEB网格生成算法\PEBI_C# _3d_m1 _fm1 - 副本 - 副本\code\obj\Debug\arcball.exe
+E:\important document\pertroleum engineering\试井\FEB网格生成算法\PEBI_C# _3d_m1 _fm1 - 副本 - 副本\code\obj\Debug\arcball.pdb
+E:\important document\pertroleum engineering\试井\FEB网格生成算法\PEBI_C# _3d_m1 _fm1 - 副本 - 副本\code\bin\Debug\arcball.exe
+E:\important document\pertroleum engineering\试井\FEB网格生成算法\PEBI_C# _3d_m1 _fm1 - 副本 - 副本\code\bin\Debug\arcball.pdb
+E:\important document\pertroleum engineering\试井\FEB网格生成算法\PEBI_C# _3d_m1 _fm1 - 副本 - 副本\code\bin\Debug\csgl.dll
+E:\important document\pertroleum engineering\试井\FEB网格生成算法\PEBI_C# _3d_m1 _fm1 - 副本 - 副本\code\obj\Debug\arcball.csprojResolveAssemblyReference.cache
+E:\important document\pertroleum engineering\试井\FEB网格生成算法\PEBI_C# _3d_m1 _fm1 - 副本 - 副本\code\obj\Debug\arcball.csgl.resources
+E:\important document\pertroleum engineering\试井\FEB网格生成算法\PEBI_C# _3d_m1 _fm1 - 副本 - 副本\code\obj\Debug\arcball.Properties.Resources.resources
+E:\important document\pertroleum engineering\试井\FEB网格生成算法\PEBI_C# _3d_m1 _fm1 - 副本 - 副本\code\obj\Debug\arcball.csproj.GenerateResource.Cache
+E:\important document\pertroleum engineering\试井\FEB网格生成算法\PEBI_C# _3d_m1 _fm1 - 副本 - 副本\code\obj\Debug\arcball._3Dshow.resources
+E:\important document\pertroleum engineering\试井\FEB网格生成算法\PEBI_C# _3d_m1 _fm1 - 副本 - 副本\code\obj\Debug\arcball.Main.resources
+E:\important document\pertroleum engineering\试井\FEB网格生成算法\PEBI_C# _3d_m1 _fm1 - 副本 - 副本\code\obj\Debug\arcball.Set_step.resources
+E:\important document\pertroleum engineering\试井\FEB网格生成算法\imp_versions\C#_Form_2d3d_point_2\code\obj\Debug\arcball.exe
+E:\important document\pertroleum engineering\试井\FEB网格生成算法\imp_versions\C#_Form_2d3d_point_2\code\obj\Debug\arcball.pdb
+E:\important document\pertroleum engineering\试井\FEB网格生成算法\imp_versions\C#_Form_2d3d_point_2\code\bin\Debug\arcball.exe
+E:\important document\pertroleum engineering\试井\FEB网格生成算法\imp_versions\C#_Form_2d3d_point_2\code\bin\Debug\arcball.pdb
+E:\important document\pertroleum engineering\试井\FEB网格生成算法\imp_versions\C#_Form_2d3d_point_2\code\bin\Debug\csgl.dll
+E:\important document\pertroleum engineering\试井\FEB网格生成算法\imp_versions\C#_Form_2d3d_point_2\code\obj\Debug\arcball.csprojResolveAssemblyReference.cache
+E:\important document\pertroleum engineering\试井\FEB网格生成算法\imp_versions\C#_Form_2d3d_point_2\code\obj\Debug\arcball._3Dshow.resources
+E:\important document\pertroleum engineering\试井\FEB网格生成算法\imp_versions\C#_Form_2d3d_point_2\code\obj\Debug\arcball.csgl.resources
+E:\important document\pertroleum engineering\试井\FEB网格生成算法\imp_versions\C#_Form_2d3d_point_2\code\obj\Debug\arcball.Main.resources
+E:\important document\pertroleum engineering\试井\FEB网格生成算法\imp_versions\C#_Form_2d3d_point_2\code\obj\Debug\arcball.Properties.Resources.resources
+E:\important document\pertroleum engineering\试井\FEB网格生成算法\imp_versions\C#_Form_2d3d_point_2\code\obj\Debug\arcball.Set_step.resources
+E:\important document\pertroleum engineering\试井\FEB网格生成算法\imp_versions\C#_Form_2d3d_point_2\code\obj\Debug\arcball.csproj.GenerateResource.Cache
+E:\FEB网格生成算法\imp_versions\C#_Form_2d3d_point_2\code\obj\Debug\arcball.exe
+E:\FEB网格生成算法\imp_versions\C#_Form_2d3d_point_2\code\obj\Debug\arcball.pdb
+E:\FEB网格生成算法\imp_versions\C#_Form_2d3d_point_2\code\bin\Debug\arcball.exe
+E:\FEB网格生成算法\imp_versions\C#_Form_2d3d_point_2\code\bin\Debug\arcball.pdb
+E:\FEB网格生成算法\imp_versions\C#_Form_2d3d_point_2\code\bin\Debug\csgl.dll
+E:\FEB网格生成算法\imp_versions\C#_Form_2d3d_point_2\code\obj\Debug\arcball.csprojResolveAssemblyReference.cache
+E:\FEB网格生成算法\imp_versions\C#_Form_2d3d_point_2\code\obj\Debug\arcball._3Dshow.resources
+E:\FEB网格生成算法\imp_versions\C#_Form_2d3d_point_2\code\obj\Debug\arcball.csgl.resources
+E:\FEB网格生成算法\imp_versions\C#_Form_2d3d_point_2\code\obj\Debug\arcball.Main.resources
+E:\FEB网格生成算法\imp_versions\C#_Form_2d3d_point_2\code\obj\Debug\arcball.Properties.Resources.resources
+E:\FEB网格生成算法\imp_versions\C#_Form_2d3d_point_2\code\obj\Debug\arcball.Set_step.resources
+E:\FEB网格生成算法\imp_versions\C#_Form_2d3d_point_2\code\obj\Debug\arcball.csproj.GenerateResource.Cache
+E:\FEB网格生成算法\imp_versions\C#_Form_2d3d_point_2\code\obj\Debug\arcball.show3dmodel.resources
+E:\FEB网格生成算法\PEBI_code\imp_versions\C#_Form_2d3d_point_2\code\obj\Debug\arcball.exe
+E:\FEB网格生成算法\PEBI_code\imp_versions\C#_Form_2d3d_point_2\code\obj\Debug\arcball.pdb
+E:\FEB网格生成算法\PEBI_code\imp_versions\C#_Form_2d3d_point_2\code\bin\Debug\arcball.exe
+E:\FEB网格生成算法\PEBI_code\imp_versions\C#_Form_2d3d_point_2\code\bin\Debug\arcball.pdb
+E:\FEB网格生成算法\PEBI_code\imp_versions\C#_Form_2d3d_point_2\code\bin\Debug\csgl.dll
+E:\FEB网格生成算法\PEBI_code\imp_versions\C#_Form_2d3d_point_2\code\obj\Debug\arcball.csprojResolveAssemblyReference.cache
+E:\FEB网格生成算法\PEBI_code\imp_versions\C#_Form_2d3d_point_2\code\obj\Debug\arcball._3Dshow.resources
+E:\FEB网格生成算法\PEBI_code\imp_versions\C#_Form_2d3d_point_2\code\obj\Debug\arcball.csgl.resources
+E:\FEB网格生成算法\PEBI_code\imp_versions\C#_Form_2d3d_point_2\code\obj\Debug\arcball.Main.resources
+E:\FEB网格生成算法\PEBI_code\imp_versions\C#_Form_2d3d_point_2\code\obj\Debug\arcball.Properties.Resources.resources
+E:\FEB网格生成算法\PEBI_code\imp_versions\C#_Form_2d3d_point_2\code\obj\Debug\arcball.Set_step.resources
+E:\FEB网格生成算法\PEBI_code\imp_versions\C#_Form_2d3d_point_2\code\obj\Debug\arcball.show3dmodel.resources
+E:\FEB网格生成算法\PEBI_code\imp_versions\C#_Form_2d3d_point_2\code\obj\Debug\arcball.csproj.GenerateResource.Cache
+E:\FEB网格生成算法\PEBI_code\important_file\C#_model_3d\code\obj\Debug\arcball.exe
+E:\FEB网格生成算法\PEBI_code\important_file\C#_model_3d\code\obj\Debug\arcball.pdb
+E:\FEB网格生成算法\PEBI_code\important_file\C#_model_3d\code\bin\Debug\arcball.exe
+E:\FEB网格生成算法\PEBI_code\important_file\C#_model_3d\code\bin\Debug\arcball.pdb
+E:\FEB网格生成算法\PEBI_code\important_file\C#_model_3d\code\bin\Debug\csgl.dll
+E:\FEB网格生成算法\PEBI_code\important_file\C#_model_3d\code\obj\Debug\arcball.csprojResolveAssemblyReference.cache
+E:\FEB网格生成算法\PEBI_code\important_file\C#_model_3d\code\obj\Debug\arcball._3Dshow.resources
+E:\FEB网格生成算法\PEBI_code\important_file\C#_model_3d\code\obj\Debug\arcball.csgl.resources
+E:\FEB网格生成算法\PEBI_code\important_file\C#_model_3d\code\obj\Debug\arcball.Main.resources
+E:\FEB网格生成算法\PEBI_code\important_file\C#_model_3d\code\obj\Debug\arcball.Properties.Resources.resources
+E:\FEB网格生成算法\PEBI_code\important_file\C#_model_3d\code\obj\Debug\arcball.Set_step.resources
+E:\FEB网格生成算法\PEBI_code\important_file\C#_model_3d\code\obj\Debug\arcball.show3dmodel.resources
+E:\FEB网格生成算法\PEBI_code\important_file\C#_model_3d\code\obj\Debug\arcball.csproj.GenerateResource.Cache
